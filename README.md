@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🚀 SKILLSPRING - Java & Spring Boot Hands-on Repository
 
 ![Java](https://img.shields.io/badge/Java-23-orange)
@@ -454,4 +454,4 @@ without requiring explicit SQL queries or Hibernate session management.
 - **JPA** = Specification (Rules)
 - **Hibernate** = Implementation (Engine)
 - **Spring Data JPA** = Simplified Framework (Shortcut)
->>>>>>> c763249 (Added Library Management Spring Boot Project)
+ c763249 (Added Library Management Spring Boot Project)
